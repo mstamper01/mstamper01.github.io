@@ -1,3 +1,11 @@
+## Docker
+
+To build and run the site in a Docker container:
+
+```bash
+docker build -t micah-stamper-website .
+docker run -d -p 80:80 micah-stamper-website
+```
 # Micah Stamper - Personal Website
 
 This is a personal website built with React, TypeScript, Vite, and Tailwind CSS. It serves as a portfolio and resume companion for Micah Stamper.
@@ -26,11 +34,3 @@ npm run dev
 ```bash
 npm run build
 ```
-
-## Content
-
-Replace the mock content in `src/App.tsx` and components under `src/components` with your own information. Customize styles in `src/index.css` and Tailwind config in `tailwind.config.js`.
-
-## Adding Assets
-
-Place images (e.g., your headshot) in a folder under `src/assets` and update the components accordingly.
