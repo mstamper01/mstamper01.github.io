@@ -33,7 +33,10 @@ const Experience: React.FC = () => (
     <h2 className="text-3xl font-semibold mb-6">Experience</h2>
     <div className="space-y-8">
       {experiences.map((exp) => (
-        <div key={exp.company}>
+        <div
+          key={exp.company}
+          className="p-6 border rounded-lg shadow-sm hover:shadow-lg transform hover:scale-105 transition duration-300"
+        >
           <h3 className="text-xl font-bold">{exp.role} @ {exp.company}</h3>
           <span className="text-sm text-gray-600">{exp.duration}</span>
           <ul className="list-disc list-inside mt-2 text-gray-700">
