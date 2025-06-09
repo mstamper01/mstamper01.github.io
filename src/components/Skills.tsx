@@ -1,12 +1,20 @@
 import React from 'react';
 
 const skills = [
+  'AWS',
+  'OpenAI Codex',
+  'Anthropic - Claude Code',
+  'Github Co-Pilot',
   'JavaScript',
-  'TypeScript',
-  'React',
   'Node.js',
-  'CSS / Tailwind CSS',
-  'Git & GitHub'
+  'Git & GitHub',
+  'Python',
+  'C#',
+  "Jira Administration",
+  'Azure DevOps Administration',
+  'REST APIs',
+  'Data Pipelines',
+  'Docker'
 ];
 
 const Skills: React.FC = () => (

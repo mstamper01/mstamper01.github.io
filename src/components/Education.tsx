@@ -9,10 +9,16 @@ interface EducationItem {
 
 const education: EducationItem[] = [
   {
-    institution: 'University X',
-    degree: 'Bachelor of Science in Computer Science',
-    duration: '2014 - 2018',
-    details: 'Graduated with honors.'
+    institution: 'Eastern Michigan University',
+    degree: 'Bachelor of Art & Science in Computer Science',
+    duration: '2008 - 2015',
+    details: 'Dean\'s List every semester. Cleo Finlan Award for highest GPA for Computer Science Juniors.'
+  },
+    {
+    institution: 'Eastern Michigan University',
+    degree: 'Bachelor of Technology in Information Assurance',
+    duration: '2008 - 2013',
+    details: 'Dean\'s List every semester. Junior Achievers award.'
   }
 ];
 
