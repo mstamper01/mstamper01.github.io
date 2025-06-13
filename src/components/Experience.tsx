@@ -13,8 +13,9 @@ const experiences: ExperienceItem[] = [
     company: 'Rocket',
     duration: 'August 2024 - Present',
     details: [
-      'Developed user interfaces with React and TypeScript.',
-      'Collaborated with cross-functional teams to define and design new features.'
+      'Led MLS Data team to increase U.S. listing coverage by 11% ahead of national Super Bowl campaign',
+      'Architected scalable data pipelines using Python, Kafka, Postgres, and AWS services',
+      'Managed cross-functional engineering teams to deliver high-impact real estate data solutions'
     ]
   },
   {
@@ -22,17 +23,18 @@ const experiences: ExperienceItem[] = [
     company: 'Rocket Homes',
     duration: 'August 2021 - August 2024',
     details: [
-      'Assisted in the development of web applications.',
-      'Maintained code repositories and performed code reviews.'
+      'Assessed delivery maturity and launched new Agile Delivery team for Rocket Homes Technology',
+      'Partnered with executives to improve delivery predictability, achieving 80%+ commitment accuracy per quarter',
+      'Implemented Jira workflows and JavaScript automation tools to streamline development processes'
     ]
   },
   {
-    role: 'Senior Business Consulstant',
+    role: 'Senior Business Consultant',
     company: 'Rocket Homes',
     duration: 'August 2021 - August 2024',
     details: [
-      'Assisted in the development of web applications.',
-      'Maintained code repositories and performed code reviews.'
+      'Consulted on strategic technology initiatives to optimize real estate platform performance',
+      'Facilitated stakeholder alignment across product, engineering, and business units'
     ]
   },
   {
@@ -40,8 +42,9 @@ const experiences: ExperienceItem[] = [
     company: 'Quicken Loans',
     duration: 'March 2019 - August 2021',
     details: [
-      'Assisted in the development of web applications.',
-      'Maintained code repositories and performed code reviews.'
+      'Served as process architect and coach across 13+ development teams, recognized with Special Achievement Award',
+      'Facilitated Agile planning ceremonies and improved delivery velocity through cross-team coordination',
+      'Implemented TFS workflows and Python automation scripts to enhance development processes'
     ]
   },
   {
@@ -49,8 +52,9 @@ const experiences: ExperienceItem[] = [
     company: 'Quicken Loans',
     duration: 'November 2017 - March 2019',
     details: [
-      'Assisted in the development of web applications.',
-      'Maintained code repositories and performed code reviews.'
+      'Led engineering team to redesign credit pulling process, saving millions by deferring unnecessary credit reports',
+      'Developed real-time vendor visualization dashboards using C#, InfluxDB, and Grafana',
+      'Drove system transparency initiatives that influenced enterprise-wide adoption of operational dashboards'
     ]
   },
   {
@@ -58,8 +62,9 @@ const experiences: ExperienceItem[] = [
     company: 'Quicken Loans',
     duration: 'March 2017 - November 2017',
     details: [
-      'Assisted in the development of web applications.',
-      'Maintained code repositories and performed code reviews.'
+      'Designed and implemented automated asset import system using C#, DynamoDB, and AWS SQS',
+      'Integrated third-party banking APIs to enable secure, read-only account access for mortgage clients',
+      'Eliminated manual document uploads, significantly improving client experience and operational efficiency'
     ]
   },
   {
@@ -67,8 +72,8 @@ const experiences: ExperienceItem[] = [
     company: 'Quicken Loans',
     duration: 'February 2016 - March 2017',
     details: [
-      'Assisted in the development of web applications.',
-      'Maintained code repositories and performed code reviews.'
+      'Developed Do Not Call compliance system integrating third-party phone metadata providers',
+      'Built scalable microservices using C#, DynamoDB, and Mulesoft API Gateway',
     ]
   },
   {
@@ -76,8 +81,9 @@ const experiences: ExperienceItem[] = [
     company: 'Quicken Loans',
     duration: 'March 2015 - February 2016',
     details: [
-      'Assisted in the development of web applications.',
-      'Maintained code repositories and performed code reviews.'
+      'Led Rocket Fuel project migration of Rocket Mortgage components to cloud infrastructure',
+      'Coordinated cross-functional teams to scale services for high-traffic Super Bowl marketing campaign',
+      'Managed project timelines and deliverables using Microsoft Project and Team Foundation Server'
     ]
   },
   {
@@ -85,17 +91,19 @@ const experiences: ExperienceItem[] = [
     company: 'Quicken Loans',
     duration: 'October 2012 - March 2015',
     details: [
-      'Assisted in the development of web applications.',
-      'Maintained code repositories and performed code reviews.'
+      'Coordinated multiple software development projects across engineering and product teams',
+      'Facilitated project planning sessions and tracked deliverables using project management tools',
+      'Supported development teams with process improvements and stakeholder communication'
     ]
   },
   {
     role: 'Intern',
     company: 'Quicken Loans',
-    duration: 'June 2012 - October 2015',
+    duration: 'June 2012 - October 2012',
     details: [
-      'Assisted in the development of web applications.',
-      'Maintained code repositories and performed code reviews.'
+      'Supported software development initiatives as part of technology internship program',
+      'Gained hands-on experience with enterprise software development practices and methodologies',
+      'Contributed to various projects while learning industry best practices and company culture'
     ]
   }
 ];
