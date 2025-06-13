@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Contact: React.FC = () => (
-  <section id="contact" className="max-w-md mx-auto">
+  <section id="contact" className="max-w-md mx-auto pb-12">
     <h2 className="text-3xl font-semibold mb-4">Contact</h2>
     <p className="text-gray-700 mb-4">
       Feel free to reach out via email or connect on social platforms.
