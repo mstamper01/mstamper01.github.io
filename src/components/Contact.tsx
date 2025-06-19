@@ -10,7 +10,7 @@ const Contact: React.FC = () => (
       <li>
         Email:{' '}
         <a
-          href="micah@micahstamper.com"
+          href="mailto:micah@micahstamper.com"
           className="text-blue-500 relative inline-block group"
         >
           micah@micahstamper.com
