@@ -87,7 +87,7 @@ const experiences: ExperienceItem[] = [
     ]
   },
   {
-    role: 'Project Manager',
+    role: 'Program Manager',
     company: 'Quicken Loans',
     duration: 'March 2015 - February 2016',
     details: [
